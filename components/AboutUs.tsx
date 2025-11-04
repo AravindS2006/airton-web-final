@@ -1,9 +1,9 @@
 import React from 'react';
 
 const teamMembers = [
-    { name: 'Dr. Evelyn Reed', role: 'Founder & CEO', avatar: 'https://picsum.photos/seed/evelynreed/200' },
-    { name: 'Ben Carter', role: 'Head of Engineering', avatar: 'https://picsum.photos/seed/bencarter/200' },
-    { name: 'Dr. Kenji Tanaka', role: 'Chief Medical Officer', avatar: 'https://picsum.photos/seed/kenjitanaka/200' },
+    { name: 'Saravanan R K', role: 'Founder & CEO', avatar: 'https://picsum.photos/seed/evelynreed/200' },
+    { name: 'Aravindselvan', role: 'Chief Technical Officer', avatar: 'https://picsum.photos/seed/bencarter/200' },
+    { name: 'Vasanth', role: 'Chief Finance Officer', avatar: 'https://picsum.photos/seed/kenjitanaka/200' },
 ];
 
 const AboutUs: React.FC = () => {
